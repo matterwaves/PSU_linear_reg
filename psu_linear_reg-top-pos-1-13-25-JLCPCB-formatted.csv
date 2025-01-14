@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,330n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,168.3805,-128.524,180,top
+C2,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,168.402,-137.16,180,top
+C3,2.2u,CP_Radial_D6.3mm_P2.50mm,153.5,-143,90,top
+C4,1u,CP_Radial_D6.3mm_P2.50mm,165.5,-141.317621,-90,top
+C9,330n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,138.43,-128.524,180,top
+C10,2.2u,CP_Radial_D6.3mm_P2.50mm,111.5,-129.817621,-90,top
+C11,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,138.43,-137.16,180,top
+C12,1u,CP_Radial_D6.3mm_P2.50mm,119.75,-131.317621,-90,top
+J1,"Conn_Coaxial_Power, +V",BNC_Molex_0731385033,117,-143,180,top
+J2,"Conn_Coaxial_Power, -V",BNC_Molex_0731385033,97,-143,180,top
+J3,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,106.3,-119.6,180,top
+J4,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,128.5,-119.6,180,top
+J5,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,150.7,-119.6,180,top
+J6,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,172.9,-119.6,180,top
+Q3,SI9945BDY-T1-HXY,SOP-8_3.76x4.96mm_P1.27mm,145.5,-142.5,90,top
+Q4,SI9945BDY-T1-HXY,SOP-8_3.76x4.96mm_P1.27mm,98.595,-132.5,90,top
+Q5,SI4459ADY,SOIC-8_3.9x4.9mm_P1.27mm,133,-141.5,180,top
+R1,1M,R_0603_1608Metric,139,-144,0,top
+R2,1M,R_0603_1608Metric,139,-142,180,top
+R3,1M,R_0603_1608Metric,94,-133,180,top
+U1,L7805,TO-220-3_Vertical,172,-130.25,-90,top
+U2,L7905,TO-220-3_Vertical,157,-130.25,-90,top
+U3,L7812,TO-220-3_Vertical,142,-130.25,-90,top
+U4,L7912,TO-220-3_Vertical,127,-130.25,-90,top

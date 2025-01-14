@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./production",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "production/3dmodel.step",
@@ -497,7 +497,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "production/BOM.csv",
+    "bom_export_filename": "production/BOM-1-13-25.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

@@ -1,0 +1,14 @@
+Designator,Comment,Footprint,LCSC Part Number
+"C1,C9",330n,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C1740
+"C2,C11",100n,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C49678
+"C3,C10",2.2u,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,
+"C4,C12",1u,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,
+"J1,J2",Conn_Coaxial_Power,matterwaves:BNC_Molex_0731385033,
+"J3,J4,J5,J6",Conn_01x10_Pin,Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,
+"Q3,Q4",SI9945BDY-T1-HXY,Package_SO:SOP-8_3.76x4.96mm_P1.27mm,C18198388
+Q5,SI4459ADY,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C143743
+"R1,R2,R3",1M,Resistor_SMD:R_0603_1608Metric,C2933267
+U1,L7805,Package_TO_SOT_THT:TO-220-3_Vertical,
+U2,L7905,Package_TO_SOT_THT:TO-220-3_Vertical,
+U3,L7812,Package_TO_SOT_THT:TO-220-3_Vertical,
+U4,L7912,Package_TO_SOT_THT:TO-220-3_Vertical,
