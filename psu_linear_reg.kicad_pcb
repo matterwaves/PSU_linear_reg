@@ -12052,7 +12052,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at -1 1.5 360)
+			(at -1 1.5 0)
 			(layer "F.SilkS")
 			(uuid "3d76995a-3560-4137-8236-6f6c373d69ea")
 			(effects
@@ -12063,7 +12063,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 1 1.5 360)
+			(at 1 1.5 0)
 			(layer "F.SilkS")
 			(uuid "ed88ab05-d5f5-49f5-8b4a-30078748756f")
 			(effects
@@ -12218,7 +12218,7 @@
 			(uuid "3f06e8fb-0822-48e1-8866-0fb5ff873beb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3daf2ab9-0743-4a7a-b425-cf3eeb1b5893")
 			(effects
